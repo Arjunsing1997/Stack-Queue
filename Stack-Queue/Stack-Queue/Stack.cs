@@ -49,6 +49,41 @@ namespace Stack_Queue
             Console.WriteLine($"Element Inserted In Stack:- {top.data}");
 
         }
+        /// <summary>
+        /// Peeks this instance.
+        /// </summary>
+        public void Peek()
+        {
+            if (this.top == null) //Check top element  is null to print 
+            {
+                Console.WriteLine("Stack is Empty"); // print 
+                return;
+
+            }
+            Console.WriteLine($"{this.top.data } is a Top of the Stack "); //print top of stack
+
+        }
+        public void Pop()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Empty Stack"); //top is null print stack is empty
+            }
+            Console.WriteLine($"Removing the top {this.top.data } (LIFO) Element from the stack"); //print
+
+            this.top = this.top.next;  //moving the pointer of top to next node
+            Display(); //call Display method print stack element
+        }
+
+        public void isEmpty()
+        {
+            while (top != null)
+            {
+                Peek(); //call Peek Method
+                Pop(); //call pop method 
+            }
+            Display();
+        }
 
         public void Display() //create Display method print elements from the stack
         {
