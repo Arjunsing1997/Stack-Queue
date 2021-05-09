@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\bin\Debug\Stack-Queue.exe.config
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\bin\Debug\Stack-Queue.exe
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\bin\Debug\Stack-Queue.pdb
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\obj\Debug\Stack-Queue.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\obj\Debug\Stack-Queue.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\obj\Debug\Stack-Queue.exe
+C:\Users\HP\source\repos\Stack-Queue\Stack-Queue\Stack-Queue\obj\Debug\Stack-Queue.pdb
